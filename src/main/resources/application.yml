@@ -2,10 +2,10 @@
 cloud:
   aws:
     credentials:
-      access-key: AKIARCIZH4S2HEGH2TO6
-      secret-key: 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
+      access-key: <access-key>
+      secret-key: <secret-key>
     end-point:
-      uri: "https://sqs.ap-south-1.amazonaws.com/073604261044/javabeastsqs"
+      uri: <uri>
     region:
       auto: false
       static: ap-south-1
