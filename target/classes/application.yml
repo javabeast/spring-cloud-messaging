@@ -1,0 +1,15 @@
+---
+cloud:
+  aws:
+    credentials:
+      access-key: AKIARCIZH4S2HEGH2TO6
+      secret-key: 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
+    end-point:
+      uri: "https://sqs.ap-south-1.amazonaws.com/073604261044/javabeastsqs"
+    region:
+      auto: false
+      static: ap-south-1
+    stack:
+      auto: false
+server:
+  port: 9001
